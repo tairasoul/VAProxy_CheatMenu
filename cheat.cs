@@ -26,7 +26,7 @@ namespace VAProxyCheatMenu
         private string jumpHeight = "10";
         private string jumpMultiplier = "1";
         private string jumpTimer = "0.3";
-        private string rollSpeed = "60";
+        private string rollSpeed = "30";
         private bool autoParry = false;
         private string damageMultiplier = "1";
         private string airSpeed = "10";
@@ -39,7 +39,7 @@ namespace VAProxyCheatMenu
         private const string default_jumpHeight = "10";
         private const string default_jumpMultiplier = "1";
         private const string default_jumpTimer = "0.3";
-        private const string default_rollSpeed = "60";
+        private const string default_rollSpeed = "30";
         private const string default_airSpeed = "10";
         private const string default_extraGravity = "-40";
 
